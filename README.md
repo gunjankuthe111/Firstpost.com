@@ -22,7 +22,7 @@ Clone of an Indian online news and media website called firstpost.com owned by N
 <h2>Project Outcome</h2>
 <p>Gained great experience of HTML, CSS and JavaScript,</p>
 <p>Learned Github,</p>
-<p>learn how More effient way to plan a work,</p>
+<p>Learned how More effient way to plan a work,</p>
 <p>Project presentation skill improved.</p>
 
 <h2>ScreenShots<h2>
